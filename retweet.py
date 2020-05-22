@@ -30,7 +30,7 @@ search = '#keywordToSearch'
 #Maximum limit of tweets to be interacted with
 maxNumberOfTweets = 500
 
-#To keep track of tweets published
+#To keep track of tweets published 
 count = 0
 
 print(colored('Retweet Bot Started!', 'green'))
